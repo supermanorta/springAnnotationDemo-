@@ -1,0 +1,6 @@
+READ-ME
+1) Build a Java Config file, and have it read from a Java file class 
+2) define methods to expose the bean(@bean) and the method nameId is the methodName, 
+2.1)write construors and inject dependcies, 
+3) read the spring java config class
+4) retrieve the ben from the container
